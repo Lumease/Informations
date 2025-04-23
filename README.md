@@ -19,6 +19,7 @@ IMPORTANT : Quelques documents concernant JS seront postés ici, mais ce sera ma
   - https://www.toptal.com/designers/htmlarrows/symbols/ : Page pouvant aller en complément de celle ci-dessus, car vous pouvez y récupérer divers symboles.
   - https://pixabay.com/fr/ : Permet de récupérer des images libre de droits pour tous vos projets et intégrations. 
 
+
 - En CSS/SASS :
   - https://fonts.google.com/ : Google Font vous permet de sélectionner des polices d'écriture à intégrer dans vos projet. Pour cela, vous devez soit télécharger le/les dossiers à ajouter à votre projet, ou simplement copier le code qu'il vous proposera. 
   - https://bennettfeely.com/clippy/ : Permet de faire des polygones ou formes de votre choix, puis d'en copier le code pour l'utiliser.
@@ -27,6 +28,7 @@ IMPORTANT : Quelques documents concernant JS seront postés ici, mais ce sera ma
   - https://webgradients.com/ : Permet de tester différents dégradés de couleurs afin de l'inclure dans un projet. 
   - https://caniuse.com/ : Site très utile permettant de vérifier la compatibilité du code en fonction des navigateurs choisis par les utilisateurs.
   - https://www.remove.bg/fr : Permet d'enlever le fond d'une image. 
+
 
 - Plugins utiles pour VS CODE et Chrome :
   
@@ -44,6 +46,7 @@ IMPORTANT : Quelques documents concernant JS seront postés ici, mais ce sera ma
     - Color-highlight : Mets en surbrillance les couleurs utilisées. Utile dans le cadre de $color.
     - Better Comments : Améliore les commentaires de codes et améliorer la visibilité de ce que vous commentez.
 
+
 - L'aspect visuel :
 Cet aspect demeure important dans votre rapport au code et dans le confort de ce dernier. C'est pourquoi je voous propose ce site : https://vscodethemes.com/.
 J'utilise à titre personnel Monokai Pro, après avoir utilisé One Dark Pro. Chaque thème comporte ses variantes, donc n'hésitez pas à en tester plusieurs afin de savoir lequel vous définit.
@@ -52,8 +55,10 @@ Egalement, il vous est possible de modifier la police d'écriture de VS CODE, en
 
 Il se peut que vous souhaitiez modifier l'espace entre les lignes d'identation (tab-size, qui, par défaut est à 4), voici comment faire : Settings (> dans la barre de recherche) > Text Editor > Tab Size : 2 (Ou ce que vous voulez).
 
+
 - Précision supplémentaire :
 Vous trouverez bon nombre de paramètres permettant de personnaliser VS CODE et son approche en matière d'intégration; voici un des plus pratiques à mon sens : Settings > Auto Save > onWindowChange.
+
 Il vous permet de visualiser les modifications apportées au simple clic de votre autre fenêtre. Il est également possible de faire le changement au bout d'un certain temps; pour cela, il faut utiliser : Settings > Auto Save > afterDelay.
 
 ## 💡 À propos
