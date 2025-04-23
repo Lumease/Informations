@@ -4,6 +4,7 @@
 
 Je tiens déjà à remercier FromScratch, sans qui tout cela ne serait jamais arrivé. Il s'agit d'une personne disposant d'une chaîne youtube et d'un site ou vous pouvez apprendre les bases du code à un bas prix.
 Voici le lien de ses produits : https://fromscratch.podia.com/products/more. 
+
 Vous pouvez retrouver deux programmes : HTML / CSS de A a Z et JS de A a Z. 
 
 Ce répertoire contient une collection de fichiers et de ressources conçus pour accompagner les développeurs débutants dans leur apprentissage. 
@@ -34,7 +35,7 @@ IMPORTANT : Quelques documents concernant JS seront postés ici, mais ce sera ma
     - https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=fr : Permet de retrouver rapidement et facilement une police d'écriture en la survolant, avec ses caractéristiques.
     - https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=fr  : Permet de voir les technos utilisés sur les sites ainsi que d'autres informations.
 
-  -VS CODE :
+  - VS CODE :
     - vscode-icons : Un des plugin permettant de modifier les icones dans l'espace de travail.
     - Auto Rename Tag : Permet de renommer automatiquement les balises HTML;  si l'ouvrante est modifiée, la fermante l'est également.
     - Live Server : Permet de visualiser le projet en direct.
