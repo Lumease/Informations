@@ -14,7 +14,7 @@ IMPORTANT : Quelques documents concernant JS seront postés ici, mais ce sera ma
 ## 📚 Liens et outils utiles :
 
 - En HTML :
-  - https://htmlcheatsheet.com/ : Il s'agit d'une page recensant des informations et structures utiles. Vous trouvez également une variante CSS et JS.
+  - https://laconsole.dev/cheatsheets : Il s'agit de plusieurs pages recensant des infos de codes utiles. 
   - https://www.toptal.com/designers/htmlarrows/symbols/ : Page pouvant aller en complément de celle ci-dessus, car vous pouvez y récupérer divers symboles.
   - https://pixabay.com/fr/ : Permet de récupérer des images libre de droits pour tous vos projets et intégrations. 
 
