@@ -57,6 +57,7 @@ Il se peut que vous souhaitiez modifier l'espace entre les lignes d'identation (
 
 
 - Précision supplémentaire :
+  
 Vous trouverez bon nombre de paramètres permettant de personnaliser VS CODE et son approche en matière d'intégration; voici un des plus pratiques à mon sens : Settings > Auto Save > onWindowChange.
 
 Il vous permet de visualiser les modifications apportées au simple clic de votre autre fenêtre. Il est également possible de faire le changement au bout d'un certain temps; pour cela, il faut utiliser : Settings > Auto Save > afterDelay.
