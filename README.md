@@ -20,11 +20,16 @@ IMPORTANT : Quelques documents concernant JS seront postés ici, mais ce sera ma
   - https://fonts.google.com/ : Google Font vous permet de sélectionner des polices d'écriture à intégrer dans vos projet. Pour cela, vous devez soit télécharger le/les dossiers à ajouter à votre projet, ou simplement copier le code qu'il vous proposera. 
   - https://bennettfeely.com/clippy/ : Permet de faire des polygones ou formes de votre choix, puis d'en copier le code pour l'utiliser.
   - https://fontawesome.com/search : Plateforme très utile permettant de sélectionner une icone et d'en copier le code. Certaines sont gratuites, d'autres non (les Pro). LIRE LA LIGNE CI-DESSOUS!
-  - https://cdnjs.com/libraries/font-awesome : Librairie permettant d'activer les icônes citées au dessus. Il fait en copier le code, pûis l'inclure dans la partie <head> du code.
+  - https://cdnjs.com/libraries/font-awesome : Librairie permettant d'activer les icônes citées au dessus. Il fait en copier le code, puis l'inclure dans la partie <head> du code.
   - https://webgradients.com/ : Permet de tester différents dégradés de couleurs afin de l'inclure dans un projet. 
   - https://caniuse.com/ : Site très utile permettant de vérifier la compatibilité du code en fonction des navigateurs choisis par les utilisateurs.
-  - https://www.remove.bg/fr : Permet d'enlever le fond d'une image. 
-
+  - https://www.remove.bg/fr : Permet d'enlever le fond d'une image.
+  - https://cssgridgenerator.io/ : Générateur de grilles pour la fonction display:grid.
+  - https://neumorphism.io/#e0e0e0 : Utile pour faire des formes particulières, avec des exemples.
+  - https://easycodetools.com/tool/css-fancy-border-radius : Sert à définir des angles de bordures que vous souhaitez appliquer.
+  - https://animista.net/ : Permet de faire des animations.
+  - https://codepen.io/ : Permet de visualiser des animations, des interfaces et des effets CSS en live.
+  - https://uiverse.io/ : Dispose de composants utiles à ajouter à vos projets. 
 
 - Plugins utiles pour VS CODE et Chrome :
   
