@@ -5,6 +5,8 @@
 Ce répertoire contient une collection de fichiers et de ressources conçus pour accompagner les développeurs débutants dans leur apprentissage. 
 Que vous soyez en train de découvrir les bases du développement web, de manipuler du JavaScript, ou de vous plonger dans le HTML et le CSS, vous trouverez ici des documents ainsi que des outils utiles.
 
+N'hésitez pas à regarder les images ci dessus; elles résument certaines bases importantes. 
+
 IMPORTANT : Quelques documents concernant JS seront postés ici, mais ce sera majoritairement de l'HTML et du CSS/SASS. De plus, je ne peux que vous conseiller d'utiliser ChatGPT. Enfin, il s'agit d'une liste non-exhaustive qu sera amenée à évoluer dans le temps. 
 
 ## 📚 Liens et outils utiles 
