@@ -32,7 +32,8 @@ IMPORTANT : Quelques documents concernant JS seront postés ici, mais ce sera ma
   - https://easycodetools.com/tool/css-fancy-border-radius : Sert à définir des angles de bordures que vous souhaitez appliquer.
   - https://animista.net/ : Permet de faire des animations.
   - https://codepen.io/ : Permet de visualiser des animations, des interfaces et des effets CSS en live.
-  - https://uiverse.io/ : Dispose de composants utiles à ajouter à vos projets. 
+  - https://uiverse.io/ : Dispose de composants utiles à ajouter à vos projets.
+  - https://jigsaw.w3.org/css-validator/ : Vérifie que le CSS est valide.
 
 - Plugins utiles pour VS CODE et Chrome :
   
